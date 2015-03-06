@@ -10,6 +10,6 @@ You can see my <a href="http://plnkr.co/edit/qKF1iIUhGA5MC03EeHhT?p=preview">dem
 
 <h2>More info</h2>
 
-to use it you must add jQuery, and <a href="http://www.datejs.com/">Datejs</a>
+to use it you must add jQuery, and <a href="http://www.datejs.com/">Datejs</a><br />
 you can read my tuto <a href="http://www.craazybook.com/cultures/tamazight/views/afnay-amazigh-date/">here</a>
 
