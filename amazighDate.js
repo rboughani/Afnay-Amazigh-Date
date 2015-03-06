@@ -17,7 +17,6 @@
  //Amazigh Month and Day names
  var aggur = ["ⵢⴻⵏⵏⴰⵢⴻⵔ","ⴼⵓⵔⴰⵔ","ⵎⴰⵖⵔⴻⵙ","ⴱⵔⵉⵔ","ⵎⴰⵢⵓ","ⵢⵓⵏⵢⵓ","ⵢⵓⵍⵢⵓ","ⵖⵓⵛⵜ","ⵛⵜⴻⵎⴱⴻⵔ","ⵟⵓⴱⴻⵔ","ⵡⴻⵎⴱⴻⵔ","ⵊⴻⵎⴱⴻⵔ"];
  var ussan = ["ⴰⵔⵉⵎ","ⴰⵔⴰⵎ","ⴰⵀⴰⴷ","ⴰⵎⵀⴰⴷ","ⴻⵎ","ⵙⴻⴷ","ⴰⵛⴻⵔ"];
- var weekly = ["lundi","mardi","marcredi","jeudi","vendredi","samedi","dimanche"];
 	
  if (amazighDay<0) {
 	amazighMonth = laDate.getMonth()-1;
