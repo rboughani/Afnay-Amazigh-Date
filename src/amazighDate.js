@@ -19,7 +19,7 @@
  var ussan = ["ⴰⵔⵉⵎ","ⴰⵔⴰⵎ","ⴰⵀⴰⴷ","ⴰⵎⵀⴰⴷ","ⴻⵎ","ⵙⴻⴷ","ⴰⵛⴻⵔ"];
  var weekly = ["lundi","mardi","marcredi","jeudi","vendredi","samedi","dimanche"];
 	
- if (amazighDay<0) {
+ if (amazighDay<=0) {
 	amazighMonth = laDate.getMonth()-1;
 	// Number of Days in the current Amazigh month
 	var amdanWussanWaggur = Date.getDaysInMonth(laDate.getFullYear, amazighMonth);
